@@ -11,7 +11,7 @@
 *支持 Linux, Synology NAS, fnOS, Docker, Windows, macOS*
 
 [![version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)](https://github.com/yourusername/phantomkey/releases)
-[![LICENSE](https://img.shields.io/badge/license-MIT-yellowgreen.svg)](LICENSE)
+[![LICENSE](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![build](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/yourusername/phantomkey/actions)
 [![docker](https://img.shields.io/badge/docker-ready-cyan.svg)](https://hub.docker.com/r/yourusername/phantomkey)
 [![platform](https://img.shields.io/badge/platform-Linux%20%7C%20NAS-lightgrey.svg)](https://github.com/yourusername/phantomkey)
@@ -348,7 +348,7 @@ const API_URL = "http://YOUR_NAS_IP:5010/open_door";
 
 ## 📄 许可证
 
-[MIT](../../LICENSE)
+[Apache License 2.0](../../LICENSE)
 
 
 
