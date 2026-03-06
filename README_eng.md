@@ -2,7 +2,7 @@
 
 <img src="static/logo-small.png" width="100" height="100" alt="PhantomKey Logo">
 
-# 👻 PhantomKey 🔑
+# 👻 PhantomKey 🔑 (Out of Date)
 
 ### A simple and elegant open-source IoT access control bypass solution
 
